@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+cp add devide /usr/local/bin
