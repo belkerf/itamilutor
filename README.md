@@ -18,7 +18,8 @@ run the this comand in your linux terminal:
 our calculator provide too many commands programmed in  C language, and provide the source code of this programs, for example:
 ### addition:
 to calculate the sum of two numbers the itamitor provide the command add, example: to add 1 and two
-``` $ add 1 2 
+```bash 
+$ add 1 2 
 3
 ```
 ### devision:
