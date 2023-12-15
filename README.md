@@ -8,11 +8,12 @@ https://github.com/belkerf/itamilutor.git
 
 run the this comand in your linux terminal:
    
+   ```
    git clone https://github.com/belkerf/itamilutor.git;
    cd itamilutor
    chmod +x script.sh
    sudo ./script.sh
-
+```
 ## how to use :
 our calculator provide too many commands programmed in  C language, and provide the source code of this programs, for example:
 ### addition:
