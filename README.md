@@ -1,9 +1,9 @@
 # this is the itamitor readme
 ## requirments
 to clone this program to your machine you must have git installed, to install git run this gommand:
-'''bash
+```
 https://github.com/belkerf/itamilutor.git
-'''
+```
 ## how to install
 
 run the this comand in your linux terminal:
